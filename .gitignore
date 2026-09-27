@@ -1,0 +1,8 @@
+*.o
+*.out
+disk
+a.out
+output/
+__MACOSX/
+.DS_Store
+*_test
